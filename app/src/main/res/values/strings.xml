@@ -20,4 +20,7 @@
     <string name="select_photo">Select Photo</string>
     <string name="ok">OK</string>
     <string name="cancel">CANCEL</string>
+    <string name="id">id</string>
+    <string name="cancel">CANCEL</string>
+    <string name="add_edit">ADD/EDIT</string>
 </resources>
